@@ -15,9 +15,6 @@
 
 5. The Whatsapp Bot will Access the data from the database to provide Recipe recommendations , Spoilage alerts , Diet info , Items in fridge
 
-6. Below is attached Chat tested by other person
-
-![image](https://github.com/HariOm987/smart-fridge/assets/103589784/310598b6-7c2a-41c9-b09e-c60536140b43)
 
 
 
